@@ -6,7 +6,7 @@
 
 ## Problema de Negócio
 
-O problema de negócio proposto pelas partes interessadas, se define em encontrar opções de melhores produtos vendedidos e para quais públicos os mesmos se destinam.
+O problema de negócio proposto pelas partes interessadas, se define em encontrar opções de melhores produtos vendidos e para quais públicos os mesmos se destinam.
 Para além disso também houve o interesse sobre a **sazonalidade** dos produtos, com isso, também há a questão de encontrar um padrão de compra dada à época do ano.
 
 
